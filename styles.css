@@ -1,0 +1,24 @@
+ body{ background-color:pink ; 
+
+ }
+
+ h1{ color: palevioletred;
+
+ }
+ h4{
+  color:palevioletred;
+ }
+ h3{
+  color: palevioletred;
+    }
+h5{
+ color: palevioletred;
+}
+
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: plum;
+   border-width: 5px;
+   width: 20%;
+}
